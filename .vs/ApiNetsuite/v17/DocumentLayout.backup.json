@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\desarrollo\\web\\Api-Rest\\ApiNetsuite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{591514A9-687D-4BAD-9FE3-120FA70D2701}|ApiNetsuite\\ApiNetsuite.csproj|c:\\desarrollo\\web\\api-rest\\apinetsuite\\apinetsuite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591514A9-687D-4BAD-9FE3-120FA70D2701}|ApiNetsuite\\ApiNetsuite.csproj|solutionrelative:apinetsuite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591514A9-687D-4BAD-9FE3-120FA70D2701}|ApiNetsuite\\ApiNetsuite.csproj|c:\\desarrollo\\web\\api-rest\\apinetsuite\\apinetsuite\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591514A9-687D-4BAD-9FE3-120FA70D2701}|ApiNetsuite\\ApiNetsuite.csproj|solutionrelative:apinetsuite\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591514A9-687D-4BAD-9FE3-120FA70D2701}|ApiNetsuite\\ApiNetsuite.csproj|c:\\desarrollo\\web\\api-rest\\apinetsuite\\apinetsuite\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591514A9-687D-4BAD-9FE3-120FA70D2701}|ApiNetsuite\\ApiNetsuite.csproj|solutionrelative:apinetsuite\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591514A9-687D-4BAD-9FE3-120FA70D2701}|ApiNetsuite\\ApiNetsuite.csproj|c:\\desarrollo\\web\\api-rest\\apinetsuite\\apinetsuite\\controllers\\turnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591514A9-687D-4BAD-9FE3-120FA70D2701}|ApiNetsuite\\ApiNetsuite.csproj|solutionrelative:apinetsuite\\controllers\\turnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591514A9-687D-4BAD-9FE3-120FA70D2701}|ApiNetsuite\\ApiNetsuite.csproj|c:\\desarrollo\\web\\api-rest\\apinetsuite\\apinetsuite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{591514A9-687D-4BAD-9FE3-120FA70D2701}|ApiNetsuite\\ApiNetsuite.csproj|solutionrelative:apinetsuite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591514A9-687D-4BAD-9FE3-120FA70D2701}|ApiNetsuite\\ApiNetsuite.csproj|c:\\desarrollo\\web\\api-rest\\apinetsuite\\apinetsuite\\clases\\convertjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591514A9-687D-4BAD-9FE3-120FA70D2701}|ApiNetsuite\\ApiNetsuite.csproj|solutionrelative:apinetsuite\\clases\\convertjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591514A9-687D-4BAD-9FE3-120FA70D2701}|ApiNetsuite\\ApiNetsuite.csproj|c:\\desarrollo\\web\\api-rest\\apinetsuite\\apinetsuite\\repositorio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591514A9-687D-4BAD-9FE3-120FA70D2701}|ApiNetsuite\\ApiNetsuite.csproj|solutionrelative:apinetsuite\\repositorio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utilidades.cs",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiNetsuite\\ApiNetsuite\\Utilidades.cs",
+              "RelativeDocumentMoniker": "ApiNetsuite\\Utilidades.cs",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiNetsuite\\ApiNetsuite\\Utilidades.cs",
+              "RelativeToolTip": "ApiNetsuite\\Utilidades.cs",
+              "ViewState": "AgIAAJwBAAAAAAAAAAAAAL8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T22:16:32.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiNetsuite\\ApiNetsuite\\Startup.cs",
+              "RelativeDocumentMoniker": "ApiNetsuite\\Startup.cs",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiNetsuite\\ApiNetsuite\\Startup.cs",
+              "RelativeToolTip": "ApiNetsuite\\Startup.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAK0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T22:14:33.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiNetsuite\\ApiNetsuite\\Program.cs",
+              "RelativeDocumentMoniker": "ApiNetsuite\\Program.cs",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiNetsuite\\ApiNetsuite\\Program.cs",
+              "RelativeToolTip": "ApiNetsuite\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T22:14:30.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TurnoController.cs",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiNetsuite\\ApiNetsuite\\Controllers\\TurnoController.cs",
+              "RelativeDocumentMoniker": "ApiNetsuite\\Controllers\\TurnoController.cs",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiNetsuite\\ApiNetsuite\\Controllers\\TurnoController.cs",
+              "RelativeToolTip": "ApiNetsuite\\Controllers\\TurnoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T21:28:50.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiNetsuite\\ApiNetsuite\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiNetsuite\\appsettings.json",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiNetsuite\\ApiNetsuite\\appsettings.json",
+              "RelativeToolTip": "ApiNetsuite\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T19:45:51.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConvertJson.cs",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiNetsuite\\ApiNetsuite\\Clases\\ConvertJson.cs",
+              "RelativeDocumentMoniker": "ApiNetsuite\\Clases\\ConvertJson.cs",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiNetsuite\\ApiNetsuite\\Clases\\ConvertJson.cs",
+              "RelativeToolTip": "ApiNetsuite\\Clases\\ConvertJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T19:42:53.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\desarrollo\\web\\Api-Rest\\ApiNetsuite\\ApiNetsuite\\Repositorio\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "ApiNetsuite\\Repositorio\\AccesoDatos.cs",
+              "ToolTip": "C:\\desarrollo\\web\\Api-Rest\\ApiNetsuite\\ApiNetsuite\\Repositorio\\AccesoDatos.cs",
+              "RelativeToolTip": "ApiNetsuite\\Repositorio\\AccesoDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T19:02:34.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

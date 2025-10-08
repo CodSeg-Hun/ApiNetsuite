@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiNetsuite", "ApiNetsuite\ApiNetsuite.csproj", "{591514A9-687D-4BAD-9FE3-120FA70D2701}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{591514A9-687D-4BAD-9FE3-120FA70D2701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{591514A9-687D-4BAD-9FE3-120FA70D2701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{591514A9-687D-4BAD-9FE3-120FA70D2701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{591514A9-687D-4BAD-9FE3-120FA70D2701}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEE9A28F-723C-470E-8929-E174BF23C2E6}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://siniestro/tfs
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ApiNetsuite\\ApiNetsuite.csproj
+		SccProjectName1 = ApiNetsuite
+		SccLocalPath1 = ApiNetsuite
+	EndGlobalSection
+EndGlobal
